@@ -41,3 +41,7 @@ ignore.conf
 Thumbs.db
 Desktop.ini
 build_log.txt
+
+# Preprocess build artifacts
+Assets/packages-merged-link*
+Assets/Resources/PerformanceTestRun*
