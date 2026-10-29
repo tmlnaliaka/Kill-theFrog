@@ -45,3 +45,5 @@ build_log.txt
 # Preprocess build artifacts
 Assets/packages-merged-link*
 Assets/Resources/PerformanceTestRun*
+Assets/_Recovery/
+Assets/_Recovery.meta
